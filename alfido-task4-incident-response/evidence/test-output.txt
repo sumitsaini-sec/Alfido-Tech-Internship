@@ -1,0 +1,10 @@
+test_benign_background (test_analysis.DetectionTests.test_benign_background) ... ok
+test_full_chain (test_analysis.DetectionTests.test_full_chain) ... ok
+test_out_of_order_input (test_analysis.DetectionTests.test_out_of_order_input) ... ok
+test_wrong_process_breaks_dns_network_link (test_analysis.DetectionTests.test_wrong_process_breaks_dns_network_link) ... ok
+test_wrong_session_breaks_chain (test_analysis.DetectionTests.test_wrong_session_breaks_chain) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.004s
+
+OK

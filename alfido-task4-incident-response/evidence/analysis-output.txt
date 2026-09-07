@@ -1,0 +1,8 @@
+TASK 4 | SYNTHETIC INCIDENT RESPONSE ANALYSIS
+Events: 56 | Findings: 5
+IR-01 [MEDIUM] 18 failed remote interactive logons within 5 minutes on WS-FIN-01
+IR-02 [HIGH] Successful remote logon following failure burst; possible account compromise
+IR-03 [MEDIUM] Hidden PowerShell in the correlated session; command is harmless simulation text
+IR-04 [MEDIUM] DNS answer matches outbound destination from the same process; possible callback
+IR-05 [MEDIUM] 3 repeated connections at 60-second intervals; periodicity alone is inconclusive
+No host isolation, blocking, account changes or network calls performed.
